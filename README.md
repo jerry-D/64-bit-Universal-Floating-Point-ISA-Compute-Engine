@@ -13,7 +13,7 @@ Here is a .pdf information sheet on the SYMPL human-readable floating-point Pseu
 
 https://github.com/jerry-D/64-bit-Universal-Floating-Point-ISA-Compute-Engine/blob/master/PRNG_H7.pdf
 
-Finally, here is detailed documentation on the underlying 64-bit Universal Floating-Point ISA Compute Engine on which the SOB is based.  This document does, per se, not contain any information on the FuNN eNNgine because it had not been created at the time this document was written. Within the next few weeks I will be updating this document to include more information on the FuNN eNNgine and the  PRNG.  Until then, refer to .pdfs provided at this repository and also study the Verilog source code.
+Finally, here is detailed documentation on the underlying 64-bit Universal Floating-Point ISA Compute Engine on which the SOB is based.  This document does not, per se, contain any information on the FuNN eNNgine because it had not been created at the time this document was written. Within the next few weeks I will be updating this document to include more information on the FuNN eNNgine and the  PRNG.  Until then, refer to .pdfs provided at this repository and also study the Verilog source code.
 
 https://github.com/jerry-D/64-bit-Universal-Floating-Point-ISA-Compute-Engine/blob/master/UFP_ISA.pdf
 
