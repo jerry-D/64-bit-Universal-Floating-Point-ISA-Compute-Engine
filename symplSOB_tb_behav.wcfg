@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="symplSOB_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="symplSOB_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="38334738561fs"></ZoomStartTime>
+      <ZoomEndTime time="38611052288fs"></ZoomEndTime>
+      <Cursor1Time time="38565000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="181"></NameColumnWidth>
+      <ValueColumnWidth column_width="85"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="21" />
+   <wvobject fp_name="/symplSOB_tb/DUT/u1/CPU/CLK" type="logic">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/symplSOB_tb/DUT/u1/CPU/RESET_IN" type="logic">
+      <obj_property name="ElementShortName">RESET_IN</obj_property>
+      <obj_property name="ObjectShortName">RESET_IN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/symplSOB_tb/DUT/u1/CPU/PC" type="array">
+      <obj_property name="ElementShortName">PC[19:0]</obj_property>
+      <obj_property name="ObjectShortName">PC[19:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/symplSOB_tb/DUT/u1/CPU/FuNN/ACT" type="logic">
+      <obj_property name="ElementShortName">ACT</obj_property>
+      <obj_property name="ObjectShortName">ACT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/symplSOB_tb/DUT/u1/CPU/FuNN/actSel" type="array">
+      <obj_property name="ElementShortName">actSel[3:0]</obj_property>
+      <obj_property name="ObjectShortName">actSel[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/symplSOB_tb/DUT/u1/CPU/FuNN/wren" type="logic">
+      <obj_property name="ElementShortName">wren</obj_property>
+      <obj_property name="ObjectShortName">wren</obj_property>
+   </wvobject>
+   <wvobject fp_name="/symplSOB_tb/DUT/u1/CPU/FuNN/wraddrs" type="array">
+      <obj_property name="ElementShortName">wraddrs[12:0]</obj_property>
+      <obj_property name="ObjectShortName">wraddrs[12:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/symplSOB_tb/DUT/u1/CPU/FuNN/wrdataA" type="array">
+      <obj_property name="ElementShortName">wrdataA[1023:0]</obj_property>
+      <obj_property name="ObjectShortName">wrdataA[1023:0]</obj_property>
+      <obj_property name="Radix">ASCIIRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/symplSOB_tb/DUT/u1/CPU/FuNN/wrdataB" type="array">
+      <obj_property name="ElementShortName">wrdataB[1023:0]</obj_property>
+      <obj_property name="ObjectShortName">wrdataB[1023:0]</obj_property>
+      <obj_property name="Radix">ASCIIRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/symplSOB_tb/DUT/u1/CPU/FuNN/rdenA" type="logic">
+      <obj_property name="ElementShortName">rdenA</obj_property>
+      <obj_property name="ObjectShortName">rdenA</obj_property>
+   </wvobject>
+   <wvobject fp_name="/symplSOB_tb/DUT/u1/CPU/FuNN/rdaddrsA" type="array">
+      <obj_property name="ElementShortName">rdaddrsA[12:0]</obj_property>
+      <obj_property name="ObjectShortName">rdaddrsA[12:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/symplSOB_tb/DUT/u1/CPU/FuNN/rdenB" type="logic">
+      <obj_property name="ElementShortName">rdenB</obj_property>
+      <obj_property name="ObjectShortName">rdenB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/symplSOB_tb/DUT/u1/CPU/FuNN/rdaddrsB" type="array">
+      <obj_property name="ElementShortName">rdaddrsB[12:0]</obj_property>
+      <obj_property name="ObjectShortName">rdaddrsB[12:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/symplSOB_tb/DUT/u1/CPU/FuNN/R" type="array">
+      <obj_property name="ElementShortName">R[63:0]</obj_property>
+      <obj_property name="ObjectShortName">R[63:0]</obj_property>
+      <obj_property name="Radix">ASCIIRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/symplSOB_tb/DUT/u1/CPU/FuNN/D" type="array">
+      <obj_property name="ElementShortName">D[63:0]</obj_property>
+      <obj_property name="ObjectShortName">D[63:0]</obj_property>
+      <obj_property name="Radix">ASCIIRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/symplSOB_tb/DUT/u1/CPU/ram2/DataRAM_A/wren" type="logic">
+      <obj_property name="ElementShortName">wren</obj_property>
+      <obj_property name="ObjectShortName">wren</obj_property>
+   </wvobject>
+   <wvobject fp_name="/symplSOB_tb/DUT/u1/CPU/ram2/DataRAM_A/wraddrs" type="array">
+      <obj_property name="ElementShortName">wraddrs[8:0]</obj_property>
+      <obj_property name="ObjectShortName">wraddrs[8:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/symplSOB_tb/DUT/u1/CPU/ram2/DataRAM_A/wrdata" type="array">
+      <obj_property name="ElementShortName">wrdata[1023:0]</obj_property>
+      <obj_property name="ObjectShortName">wrdata[1023:0]</obj_property>
+      <obj_property name="Radix">ASCIIRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/symplSOB_tb/DUT/u1/CPU/FuNN/resultBuf/DataRAM_A/wren" type="logic">
+      <obj_property name="ElementShortName">wren</obj_property>
+      <obj_property name="ObjectShortName">wren</obj_property>
+   </wvobject>
+   <wvobject fp_name="/symplSOB_tb/DUT/u1/CPU/FuNN/resultBuf/DataRAM_A/wraddrs" type="array">
+      <obj_property name="ElementShortName">wraddrs[3:0]</obj_property>
+      <obj_property name="ObjectShortName">wraddrs[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/symplSOB_tb/DUT/u1/CPU/FuNN/resultBuf/DataRAM_A/wrdata" type="array">
+      <obj_property name="ElementShortName">wrdata[1023:0]</obj_property>
+      <obj_property name="ObjectShortName">wrdata[1023:0]</obj_property>
+      <obj_property name="Radix">ASCIIRADIX</obj_property>
+   </wvobject>
+</wave_config>
