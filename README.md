@@ -35,7 +35,7 @@ When the simulation is complete, you should be able to find two new .txt files i
 For information on what the demonstration does, refer to the assembly language object listing in the “ASM” folder and the “symplSOB_tb.v” test bench source code.
 
 ## Packages Omitted
-You quickly notice that the IEEE754-2008 floating-point operators, integer and logical operators, and XCUs have been omitted from this publication.  I omitted them mainly because the FuNN eNNgine does not require them and I didn't want those evaluating the underlying ISA architecture to get lost in the details.  However, if you would like to evaluate them, please let me know and I'll see what I can do to get you set up with that.
+You may quickly notice that the IEEE754-2008 floating-point operators, integer and logical operators, and XCUs have been omitted from this publication.  I omitted them mainly because the FuNN eNNgine does not require them and I didn't want those evaluating the underlying ISA architecture to get lost in the details.  However, if you would like to evaluate them, please let me know and I'll see what I can do to get you set up with that.
 
 Enjoy!
 
