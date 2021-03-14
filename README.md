@@ -1,5 +1,9 @@
 ![](https://github.com/jerry-D/64-bit-Universal-Floating-Point-ISA-Compute-Engine/blob/master/SYMPL_logo_med.png)
 ## RISC-V Rocket Chip Strap-on-Booster with Fused Universal Neural Network (FuNN) eNNgine
+(March 13, 2021) The Universal Floating-Point ISA specification specification is now published. It can be downloaded using the following link:
+
+https://github.com/jerry-D/64-bit-Universal-Floating-Point-ISA-Compute-Engine/blob/master/Universal_ISA_Publication.pdf
+
 (December 1, 2019) It's finally here.  Written entirely in Verilog RTL, the new 64-bit Universal Floating-Point ISA with the new FuNN eNNgine installed is finally here for free download.  At this repository you will find everything you need to begin development of your own Artificial Neural Network application using the SYMPL Strap-on-Booster (SOB) for RISC-V.  Interfacing the SOB to RISC-V is no different than interfacing to an embedded FPGA block RAM, either directly or by way of an AXI4 interface for higher speed transactions. 
 Here is a .pdf information sheet on the SYMPL SOB:
 
